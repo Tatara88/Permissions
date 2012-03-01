@@ -68,7 +68,7 @@
     </dependencies>
     <repositories>
         <repository>
-            <id>bukkit-repo</id>
+            <id>bukkit-rep</id>
             <url>http://repo.bukkit.org/content/groups/public</url>
         </repository>
     </repositories>
