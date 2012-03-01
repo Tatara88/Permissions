@@ -2,7 +2,7 @@
 /.classpath
 /.project
 /.settings
-/.gitignore
+/.checkstyle
 
 # netbeans
 /nbproject
@@ -25,6 +25,20 @@
 /world
 
 # Mac filesystem dust
-/.DS_Store
+*.DS_Store
 
-/doc
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Fern's utils
+uploadtoserver.sh
+
+# Testing files:
+debug.log
+
+# Doxygen
+/docs/html
+debug.txt
