@@ -3,6 +3,7 @@
     <groupId>com.nijikokun.bukkit</groupId>
     <artifactId>Permissions</artifactId>
     <version>3.2</version>
+    <packaging>jar</packaging>
     <name>Permissions</name>
     <url>https://github.com/TheYeti/Permissions</url>
     <issueManagement>
